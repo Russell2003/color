@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(26, 245, 26);
+    padding:20px;
+}
+/* имя цвета */
+h1 {
+    color: rgb(71, 10, 57);
+    background-color: darkcyan;
+}
+/* шестнадцатиричный код */ 
+h2 {
+    color: #120509;
+    background-color: red;
+} 
+/* значение rgb */
+p {
+    color: rgb(100,100,90);
+    background-color: white;
+}
+
+
